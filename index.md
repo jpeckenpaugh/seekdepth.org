@@ -1,4 +1,5 @@
 # I. Preamble: Setting the Stage
+Published 07/04/2026
 
 This preamble is intentionally grounded in the conventional understanding of how modern AI systems work. It is the map that will be challenged by the territory that follows. If you find yourself thinking 'I already know this' in the first sections, that is intentional—the known is the foundation for what will become unfamiliar.
 
